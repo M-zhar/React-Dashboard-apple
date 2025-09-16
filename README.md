@@ -1,3 +1,5 @@
+<h1>Deployed Link -- -</h1> https://mazharreact.netlify.app/
+
 Project Overview
 
 A responsive, animated, real-time analytics dashboard for Apple Search Ads (ASA) performance tracking built with modern React tooling. The application displays live KPIs, interactive charts, sortable/filterable tables, date and dimension filters, and smooth UI animations.
